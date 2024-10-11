@@ -30,7 +30,7 @@ All of my projects are available at [Sarika_sh](https://github.com/Sarika_sh).
 
 ## 📫 How to Reach Me
 
-Feel free to reach out via my email: [Contact Me](mailto:sarika.sharma202209@gmail.com) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+Feel free to reach out via my email: [Contact Me](mailto:) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 <a href="https://linkedin.com/in/sarika-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarika-/" height="30" width="40" /></a>
 </p>
