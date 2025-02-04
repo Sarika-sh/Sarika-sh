@@ -21,7 +21,7 @@ I’m currently enhancing my skills in **different programming languages and the
 
 
 ## 📁 My Projects
-All of my projects are available at [Sarika_sh](https://github.com/Sarika_sh).
+All of my projects are available at [Sarika_sh](https://github.com/Sarika-sh).
 
 ## 💬 Ask Me About
 - Data Analysis
