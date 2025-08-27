@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sarika-sh&label=Profile%20views&color=0e75b6&style=flat" alt="sarika-sh" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sarika-sh" alt="sarika-sh" />
-  </a>
-</p>
-
 ---
 
 ## About Me
